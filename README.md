@@ -1,0 +1,2 @@
+# flamingo
+openstack automated deployment
